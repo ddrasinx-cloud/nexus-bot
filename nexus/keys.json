@@ -1,0 +1,24 @@
+{
+  "keys": {
+    "NEXUS-HACKER-A1B2C3": {
+      "tier": "Hacker",
+      "used": false,
+      "discordId": null
+    },
+    "NEXUS-WARLORD-D4E5F6": {
+      "tier": "Warlord",
+      "used": false,
+      "discordId": null
+    },
+    "NEXUS-EMPEROR-G7H8I9": {
+      "tier": "Emperor",
+      "used": false,
+      "discordId": null
+    },
+    "NEXUS-VOID-J0K1L2": {
+      "tier": "Void",
+      "used": false,
+      "discordId": null
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nexus-keysystem",
+  "version": "1.0.0",
+  "description": "NEXUS Key System Desktop Client",
+  "main": "keysystem.js",
+  "scripts": {
+    "build": "pkg keysystem.js --targets node16-win-x64 --output dist/nexus-keysystem.exe",
+    "start": "node keysystem.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

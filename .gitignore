@@ -1,0 +1,5 @@
+node_modules/
+nexus/bot/.env
+nexus/bot/*.log
+nexus/bot/data/
+nexus/site/admin/
